@@ -1,1 +1,3 @@
 .venv/**
+.vscode/**
+lib/__pycache__/**
